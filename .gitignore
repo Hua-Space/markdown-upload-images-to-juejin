@@ -1,0 +1,21 @@
+# Binaries for programs and plugins
+*.exe
+*.o
+*.so
+*.dll
+*.a
+# Log files
+*.log
+*.out
+*.trace
+# Temporary files
+*.tmp
+*.bak
+*.swp
+# Dependency directories
+/vendor/
+/Godeps/
+# IDE files
+.idea/
+.vscode/
+testupload.go
